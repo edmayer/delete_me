@@ -1,4 +1,4 @@
-delete_me
+Lösch mich
 =========
 
 Warum sollte ich das wieder löschen?
